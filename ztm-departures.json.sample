@@ -1,7 +1,0 @@
-[
-  {
-    "bus_stop_name": "Stare%20Miasto",
-    "bus_stop_numbers": ["02"],
-    "bus_lines": ["13", "20", "23", "26", "28", "190" ]
-  }
-]
